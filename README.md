@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/covers/07-wechat-whack-a-mole.jpg" alt="wechat-whack-a-mole 项目封面" width="100%"></p>
+
 <div align="center">
 
 # 🐹 微信打地鼠
